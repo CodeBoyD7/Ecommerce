@@ -50,7 +50,7 @@ This is a full-stack **Ecommerce web application** for Fashion and Electronics, 
 | Frontend     | React.js, Tailwind CSS, Redux Toolkit, TypeScript, Expo |
 | Backend      | Node.js, Express                                        |
 | Database     | MongoDB, Redis                                          |
-| Integrations | Stripe, Razorpay, PayPal                                |
+| Integrations | COD, Razorpay, PayPal                                |
 | Dev Tools    | Netlify (deploy), VS Code                               |
 
 ---
